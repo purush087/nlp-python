@@ -1,0 +1,48 @@
+{
+  "rasa_nlu_data": {
+    "common_examples": [
+      {
+        "intent": "install_appium",
+        "text": "How to install appium?"
+      },
+      {
+        "intent": "scroll_up",
+        "text": "I want to scroll up in appium?"
+      },
+      {
+        "intent": "scroll_down",
+        "text": "How to scroll down in appium?"
+      },
+      {
+        "intent": "subscribe",
+        "text": "Please subscribe me"
+      },
+      {
+        "intent": "scroll_up",
+        "text": "How to perform scroll up using appium"
+      },
+      {
+        "intent": "bot_chat",
+        "text": "What is your name?"
+      },
+      {
+        "intent": "bot_chat",
+        "text": "Who are you?"
+      },
+      {
+        "intent": "bot_chat",
+        "text": "How can you help me"
+      },
+      {
+        "intent": "bot_chat",
+        "text": "tell me something about yourself"
+      },
+      {
+        "intent": "bot_chat",
+        "text": "your good name please"
+      }
+    ],
+    "regex_features": [],
+    "entity_synonyms": []
+  }
+}
